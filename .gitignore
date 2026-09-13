@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*~
+
+# 本地临时文件
+*.log
+*.bak
+*.tmp
+/backups/
